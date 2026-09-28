@@ -30,17 +30,16 @@ I enjoy taking ideas from **research → implementation → usable applications*
 
 ### Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css&perline=7" alt="Languages and frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css&perline=6" alt="Languages and frontend technologies"/>
 
 ### Backend, Data & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github,docker,linux,vscode&perline=7" alt="Backend and developer tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux,vscode&perline=6" alt="Backend and developer tools"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
 <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat-square&logo=javascript&logoColor=111827"/>
-<img src="https://img.shields.io/badge/TypeScript-Web-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-Research-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-Research-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-Projects-10B981?style=flat-square"/>
@@ -109,7 +108,7 @@ Supporting datasets for machine-learning experimentation, including autonomous-d
 
 Beyond ML, I'm also interested in building **modern, responsive web interfaces and application experiences**.
 
-**Frontend:** React · JavaScript · TypeScript · HTML · CSS
+**Frontend:** React · JavaScript · HTML · CSS
 
 **Application development:** React-based UI · component-driven development · API integration · responsive interfaces
 
