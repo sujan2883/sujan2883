@@ -110,21 +110,6 @@ My autonomous-driving research compares NVIDIA's end-to-end model with the DeepD
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujan2883&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan2883&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sujan2883&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -145,13 +130,7 @@ I like projects that are **practical, measurable, and easy to iterate on**.
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
-
-<a href="https://github.com/sujan2883"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:111827,100:1d4ed8" alt="Footer"/>
 
