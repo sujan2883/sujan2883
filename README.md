@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sujan%20P&fontAlign=50&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1d4ed8" alt="Sujan P"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sujan%20P&fontAlign=50&fontAlignY=36&desc=AI%20%7C%20Software%20%7C%20Full%20Stack&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1d4ed8" alt="Sujan P"/>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+solutions;Turning+research+into+working+software;Python+%7C+ML+%7C+NLP+%7C+Computer+Vision" alt="Animated introduction"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sujan2883&style=for-the-badge&color=1d4ed8&label=PROFILE%20VIEWS" alt="Profile views"/>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+solutions;Building+modern+web+experiences;Python+%7C+React+%7C+ML+%7C+NLP;Turning+ideas+into+working+software" alt="Animated introduction"/></a>
 
 </div>
 
@@ -14,13 +10,15 @@
 
 ## 👋 Hello, I'm Sujan
 
-I'm a technology enthusiast focused on **AI/ML, software engineering, automation, and data-driven systems**.
+I'm a technology enthusiast focused on **AI/ML, software engineering, modern web development, automation, and data-driven systems**.
 
-I enjoy taking ideas from **research → implementation → usable applications**, especially across intelligent systems, NLP, computer vision, and developer tooling.
+I enjoy taking ideas from **research → implementation → usable applications**, with interests spanning intelligent systems, NLP, computer vision, frontend development, and developer tooling.
 
 - 🤖 Artificial Intelligence & Machine Learning
+- ⚛️ React & modern frontend development
 - 🧠 NLP, Deep Learning & Computer Vision
 - 🐍 Python-first application development
+- 🌐 JavaScript, HTML & CSS
 - ⚙️ Automation & developer productivity
 - 📊 Data-driven engineering and experimentation
 
@@ -30,10 +28,19 @@ I enjoy taking ideas from **research → implementation → usable applications*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,docker,linux,vscode&perline=8" alt="Tech stack"/>
+### Languages & Frontend
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css&perline=7" alt="Languages and frontend technologies"/>
+
+### Backend, Data & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github,docker,linux,vscode&perline=7" alt="Backend and developer tools"/>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat-square&logo=javascript&logoColor=111827"/>
+<img src="https://img.shields.io/badge/TypeScript-Web-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-Research-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-Research-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-Projects-10B981?style=flat-square"/>
@@ -98,6 +105,18 @@ Supporting datasets for machine-learning experimentation, including autonomous-d
 
 ---
 
+## ⚛️ Frontend & Full-Stack
+
+Beyond ML, I'm also interested in building **modern, responsive web interfaces and application experiences**.
+
+**Frontend:** React · JavaScript · TypeScript · HTML · CSS
+
+**Application development:** React-based UI · component-driven development · API integration · responsive interfaces
+
+This complements my backend/AI work and lets me take projects from **model or idea → interface → usable application**.
+
+---
+
 ## 🏆 Research & Publication
 
 ### Comparative Analysis of Neural Network Models for Autonomous Driving
@@ -123,7 +142,7 @@ My autonomous-driving research compares NVIDIA's end-to-end model with the DeepD
 ## 💡 How I Like to Build
 
 ```text
-Research → Prototype → Experiment → Automate → Ship
+Research → Prototype → Build → Integrate → Automate → Ship
 ```
 
 I like projects that are **practical, measurable, and easy to iterate on**.
