@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sujan%20Pasumarti&fontAlign=50&fontAlignY=36&desc=AI%20Engineer&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1d4ed8" alt="Sujan Pasumarti"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sujan%20Pasumarti&fontAlign=50&fontAlignY=36&desc=AI%20%7C%20Software%20%7C%20Machine%20Learning&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1d4ed8" alt="Sujan Pasumarti"/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+solutions;Building+modern+web+experiences;Python+%7C+React+%7C+ML+%7C+NLP;Turning+ideas+into+working+software" alt="Animated introduction"/></a>
 
