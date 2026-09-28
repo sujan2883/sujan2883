@@ -49,19 +49,17 @@ I enjoy taking ideas from **research → implementation → usable applications*
 
 ---
 
-## 🤖 AI Development Tools
+## 🤖 AI Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GPT--5%20Codex-AI%20Coding-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Devin-AI%20Engineer-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude%20Code-AI%20Coding-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cursor-AI%20Editor-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Windsurf-AI%20IDE-00A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPT--5%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Devin-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windsurf-00A6FF?style=for-the-badge"/>
 
 </div>
-
-I use AI development tools to accelerate **coding, debugging, refactoring, testing, research, prototyping, and development workflows**.
 
 ---
 
