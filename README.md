@@ -156,7 +156,11 @@ My autonomous-driving research compares NVIDIA's end-to-end model with the DeepD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sujan2883/sujan2883/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujan2883/sujan2883/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujan2883/sujan2883/output/github-contribution-grid-snake.svg?v=2">
+  <img src="https://raw.githubusercontent.com/sujan2883/sujan2883/output/github-contribution-grid-snake.svg?v=2" alt="Contribution snake animation">
+</picture>
 
 </div>
 
